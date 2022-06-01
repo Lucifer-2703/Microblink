@@ -1,0 +1,4 @@
+# Microblink
+LED on 1 sec  and off for 1 sec 
+THIS CODE WAS CONVERTED FROM THE ARDUINO IDE (1.8.19) TO TEXT VERSION
+
